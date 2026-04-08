@@ -1,25 +1,25 @@
-# 🚀 SQL Portfolio - Yash Rana
+# 🚀 SQL Interview Prep - Yash Rana
 
-## 📌 Skills
-- Joins
-- Aggregation
+## 📌 About
+This repository contains real-world SQL queries for interview preparation.
+
+## 🧠 Topics Covered
 - Window Functions
-- Real-world Analytics
+- Aggregation
+- Joins
+- Real-world Case Studies
 
-## 🔥 Projects
+## 📂 Structure
+- window-functions → ranking & latest record problems
+- analytics → revenue & business queries
+- real-world → SaaS, healthcare, product analytics
 
-### 1. Top N per Group
-- Top 3 salary per department
+## 🔥 Key Queries
 - Latest order per user
+- Top N per group
+- Running total
+- Sales leaderboard
 
-### 2. Real-world Cases
-- Banking transactions
-- SaaS subscription analytics
-- Delivery tracking system
-
-## 🧠 Practice Topics
-- 100+ SQL Interview Questions solved
-
-## 🔗 Projects
-- Project Management App
-- Appointment Booking System
+## 👨‍💻 Author
+Yash Rana  
+Full Stack Developer (MERN + Next.js)
